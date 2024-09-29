@@ -10,7 +10,7 @@ import TestimonialsSection from "@components/sections/testimonials/TestimonialsS
 import PricingSection from "@components/sections/pricing/PricingSection.astro";
 import FAQ from "@components/sections/misc/FAQ.astro";
 import AnnouncementBanner from "@components/ui/banners/AnnouncementBanner.astro";
-import heroImage from "@images/hero-image.avif";
+import hmLogo from "@images/hm-logo.avif";
 import faqs from "@data/faqs.json";
 import features from "@data/features.json";
 import pricing from "@data/pricing.json";
@@ -30,25 +30,25 @@ const avatarSrcs: Array<string> = [
 <MainLayout>
   <AnnouncementBanner
     btnId="dismiss-button"
-    btnTitle="Explore ScrewFast on GitHub"
-    url="https://github.com/mearashadowfax/ScrewFast"
+    btnTitle="Find Me on GitHub"
+    url="https://github.com/hrimondal"
   />
 
   <HeroSection
-    title=`Equip Your Projects with <span
-        class="text-yellow-500 dark:text-yellow-400">ScrewFast</span>`
-    subTitle="Top-quality hardware tools and expert construction services for every project need."
-    primaryBtn="Start Exploring"
-    primaryBtnURL="/products"
-    secondaryBtn="Contact Sales Team"
+    title=`Study Smartly, Not <span
+        class="text-yellow-500 dark:text-yellow-400">Hardly</span>`
+    subTitle="Driven by curiosity and creativity, I’m constantly exploring new ideas, solving problems, and building projects that reflect my passion for learning. This space is a reflection of my journey, where I share my growth, thoughts, and work with the world."
+    primaryBtn="Let's Learn Together"
+    primaryBtnURL="https://www.steameracademy.me/"
+    secondaryBtn="Contact with Me"
     secondaryBtnURL="/contact"
     withReview={true}
     avatars={avatarSrcs}
     rating=`<span class="font-bold">4.8</span> / 5`
     starCount={4}
     reviews=`From Over <span class="font-bold">12.8k</span> Reviews`
-    src={heroImage}
-    alt="Stack of ScrewFast product boxes containing assorted hardware tools"
+    src={hmLogo}
+    alt="Hm's coding style logo"
   />
 
   <ClientsSection

@@ -1,22 +1,22 @@
 [
   {
-    "heading": "Dedicated Teams",
-    "content": "Benefit from our committed teams who ensure your success is personal. Count on expert guidance and exceptional results throughout your project journey.",
-    "svg": "groups"
-  },
-  {
-    "heading": "Simplicity and Affordability",
-    "content": "Find easy-to-use, affordable solutions with ScrewFast's line of tools and equipment. Our products make procurement simple and keep projects within budget.",
-    "svg": "verified"
-  },
-  {
-    "heading": "Comprehensive Documentation",
-    "content": "Integrate with ease using ScrewFast's exhaustive guides and libraries. Achieve seamless product adoption with our full suite of documentation designed for your success.",
+    "heading": "Interdisciplinary Learning",
+    "content": "STEAMer Academy integrates Science, Technology, Engineering, Arts, and Mathematics into its curriculum, providing a holistic approach to education. This interdisciplinary focus encourages students to think creatively and critically, blending analytical problem-solving with artistic expression.",
     "svg": "books"
   },
   {
-    "heading": "User-Centric Design",
-    "content": "Experience the difference with ScrewFast's user-focused design — where functionality meets practicality for an enhanced work experience.",
+    "heading": "Hands-on Projects",
+    "content": "The academy emphasizes experiential learning through practical, hands-on projects. Students get opportunities to apply theoretical concepts to real-world scenarios, which enhances their understanding and makes learning more engaging.",
+    "svg": "verified"
+  },
+  {
+    "heading": "Community and Collaboration",
+    "content": "With a strong sense of community, STEAMer Academy fosters collaboration among students and faculty. Group projects, peer reviews, and open discussions allow students to develop teamwork and leadership skills, while also building a supportive learning environment.",
+    "svg": "groups"
+  },
+  {
+    "heading": "Innovation and Creativity",
+    "content": "STEAMer Academy encourages innovation by providing students with the tools and resources needed to explore new ideas. Whether it’s through coding, engineering, or creative arts, students are pushed to think outside the box and develop unique solutions to complex problems.",
     "svg": "frame"
   }
 ]

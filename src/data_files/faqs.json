@@ -2,28 +2,28 @@
   "subTitle": "Ask us anything about our brand and products, and get factual responses.",
   "faqs": [
     {
-      "question": "What types of tools are included in the Starter Kit?",
-      "answer": "The Starter Kit features essential hand and power tools for diverse DIY projects, including hammers, drills, screwdrivers, and a variety of fasteners. It's a curated selection to help beginners and experienced DIYers alike tackle most home improvement tasks."
+      "question": "What is STEAMer Academy?",
+      "answer": "STEAMer Academy is an organization dedicated to promoting education in Science, Technology, Engineering, Arts, and Mathematics (STEAM) through engaging activities, online communities, and learning resources."
     },
     {
-      "question": "Can I upgrade from the Starter Kit to the Professional Toolbox?",
-      "answer": "Absolutely! You can upgrade to the Professional Toolbox at any time to access a wider range of high-quality tools, enjoy priority customer support, and receive exclusive content. Contact our support team for a seamless transition."
+      "question": "Who can join STEAMer Academy?",
+      "answer": "Absolutely! Anyone with a passion for STEAM subjects, including students, educators, and professionals, is welcome to join the community. We cater to all skill levels, from beginners to advanced learners."
     },
     {
-      "question": "What discounts are available for bulk orders through the Professional Toolbox plan?",
-      "answer": "Professional Toolbox members are entitled to exclusive discounts on bulk orders, the percentage of which may vary depending on the order volume. Get in touch with us to discuss your needs, and we'll provide a tailored discount structure."
+      "question": "What resources does STEAMer Academy offer?",
+      "answer": "We offer various resources, including educational content, workshops, projects, and a supportive Discord server where members can discuss topics, ask questions, and collaborate on STEAM-related projects."
     },
     {
-      "question": "What kind of customer support can I expect?",
-      "answer": "All our customers receive dedicated email support. With the Starter Kit, you'll receive our standard support, while the Professional Toolbox plan upgrades you to priority support, meaning faster response times and specialized assistance."
+      "question": "Are there any fees to join STEAMer Academy?",
+      "answer": "No, STEAMer Academy is free to join. Our mission is to make STEAM education accessible to everyone, regardless of their financial situation."
     },
     {
-      "question": "How current are the online resources and tutorials?",
-      "answer": "We regularly update our online resources and tutorials to reflect the latest trends in DIY and construction, as well as introductions to new tools and techniques. Our material aims to be comprehensive and user-friendly for all skill levels."
+      "question": "How does STEAMer Academy support students interested in STEAM careers?",
+      "answer": "We provide guidance, resources, and opportunities to explore STEAM careers. Our community can help connect students with internships, competitions, scholarships, and professional development resources."
     },
     {
-      "question": "Does ScrewFast offer services for large-scale construction projects?",
-      "answer": "Yes, our Enterprise Solutions are designed for larger companies requiring comprehensive services. We provide consultation, planning, and supply of high-grade tools and materials, as well as staffing solutions for substantial construction needs. Contact us for a customized quote."
+      "question": "Can I propose my own STEAM projects or initiatives at STEAMer Academy?",
+      "answer": "Absolutely! We encourage members to propose their own projects and initiatives. STEAMer Academy is a collaborative environment where creativity and innovation are highly valued."
     }
   ]
 }

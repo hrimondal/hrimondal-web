@@ -1,38 +1,76 @@
 {
-  "title": "Simple, Transparent Pricing",
-  "subTitle": "Boost efficiency with ScrewFast's clear, value-driven plans.",
+  "title": "Communication Platforms of STEAMer Academy",
+  "subTitle": "Exploring the features of our Discord server and WhatsApp channel",
   "badge": "Best value",
   "thirdOption": "Enterprise Solutions?",
   "btnText": "Get a Custom Quote",
 
   "starterKit": {
-    "name": "Starter Kit",
-    "description": "Best option for DIY projects",
-    "price": "49",
-    "cents": ".00",
-    "billingFrequency": "USD / monthly",
+    "name": "WhatsApp Channel",
+    "description": "Key aspects of the public communication channel",
+    "price": "10",
+    "cents": "+",
+    "billingFrequency": "followers",
     "features": [
-      "Key hardware tools",
-      "Access to guides & tutorials",
-      "Standard support"
+      "Quick updates and announcements.",
+      "One-way communication for streamlined information.",
+      "Easy access to important resources and links."
     ],
-    "purchaseBtnTitle": "Get the Starter Kit",
-    "purchaseLink": "#"
+    "purchaseBtnTitle": "Follow on WhatsApp",
+    "purchaseLink": "https://whatsapp.com/channel/0029VaM5E3V1NCrcgLXjKN43"
   },
 
   "professionalToolbox": {
-    "name": "Professional Toolbox",
-    "description": "Best for large scale uses",
-    "price": "89",
-    "cents": ".00",
-    "billingFrequency": "USD / monthly",
+    "name": "Discord Server",
+    "description": "Key highlights of the community platform",
+    "price": "150",
+    "cents": "+",
+    "billingFrequency": "members",
     "features": [
-      "Premium tool selection",
-      "Priority support",
-      "Exclusive content & deals",
-      "Bulk order discounts"
+      "Community engagement through discussions on STEAM topics",
+      "Active moderation to maintain a positive environment.",
+      "Dedicated channels for sharing educational resources",
+      "Use of polls, quizzes, and questions for interaction."
     ],
-    "purchaseBtnTitle": "Get the Professional Toolbox",
-    "purchaseLink": "#"
+    "purchaseBtnTitle": "Join Discord Server",
+    "purchaseLink": "https://discord.com/invite/sp6eXC5BXr"
+  }
+}
+{
+  "title": "Communication Platforms of STEAMer Academy",
+  "subTitle": "Exploring the features of our Discord server and WhatsApp channel",
+  "badge": "Best value",
+  "thirdOption": "Enterprise Solutions?",
+  "btnText": "Get a Custom Quote",
+
+  "starterKit": {
+    "name": "WhatsApp Channel",
+    "description": "Key aspects of the public communication channel",
+    "price": "10",
+    "cents": "+",
+    "billingFrequency": "followers",
+    "features": [
+      "Quick updates and announcements.",
+      "One-way communication for streamlined information.",
+      "Easy access to important resources and links."
+    ],
+    "purchaseBtnTitle": "Follow on WhatsApp",
+    "purchaseLink": "https://whatsapp.com/channel/0029VaM5E3V1NCrcgLXjKN43"
+  },
+
+  "professionalToolbox": {
+    "name": "Discord Server",
+    "description": "Key highlights of the community platform",
+    "price": "150",
+    "cents": "+",
+    "billingFrequency": "members",
+    "features": [
+      "Community engagement through discussions on STEAM topics",
+      "Active moderation to maintain a positive environment.",
+      "Dedicated channels for sharing educational resources",
+      "Use of polls, quizzes, and questions for interaction."
+    ],
+    "purchaseBtnTitle": "Join Discord Server",
+    "purchaseLink": "https://discord.com/invite/sp6eXC5BXr"
   }
 }

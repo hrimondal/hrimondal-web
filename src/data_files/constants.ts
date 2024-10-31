@@ -2,11 +2,11 @@ import ogImageSrc from "@images/social.png";
 
 export const SITE = {
   title: "H. mondal",
-  tagline: "Study Smartly, Not Hardly",
-  description: "ScrewFast offers top-tier hardware tools and expert construction services to meet all your project needs. Start exploring and contact our sales team for superior quality and reliability.",
-  description_short: "ScrewFast offers top-tier hardware tools and expert construction services to meet all your project needs.",
-  url: "https://screwfast.uk",
-  author: "Emil Gulamov",
+  tagline: "_think Deeply, learn Constantly, live Fully_",
+  description: "I'm H. Mondal, a passionate STEM student and founder of STEAMer Academy. Explore my projects and resources aimed at inspiring creativity and innovation.",
+  description_short: "I'm H. Mondal, a STEM student inspiring innovation in Math and Technology",
+  url: "https://hmondal.vercel.app/",
+  author: "H. Mondal",
 };
 
 export const SEO = {
@@ -33,7 +33,8 @@ export const OG = {
   locale: "en_US",
   type: "website",
   url: SITE.url,
-  title: `${SITE.title}: : Hardware Tools & Construction Services`,
-  description: "Equip your projects with ScrewFast's top-quality hardware tools and expert construction services. Trusted by industry leaders, ScrewFast offers simplicity, affordability, and reliability. Experience the difference with user-centric design and cutting-edge tools. Start exploring now!",
+  title: `${SITE.title}: : A Curious Learner..`,
+  description: "I'm H. Mondal, a STEM student inspiring innovation in Math and Technology",
   image: ogImageSrc,
 };
+

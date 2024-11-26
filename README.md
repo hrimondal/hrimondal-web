@@ -1,5 +1,7 @@
 # My Personal Web
 
+![ScrewFast](https://hrimondal.vercel.app/social.png)
+
 Welcome to the official repository for my personal website! This project serves as a portfolio, blog, and central hub to showcase my work, ideas, and journey in technology and learning. By combining the power of the [Astro](https://astro.build/), [Tailwind CSS](https://tailwindcss.com/), and [Preline UI](https://preline.co/), this web offers a functional and aesthetically pleasing solution for web presence.
 
 **[View Web](https://hrimondal.vercel.app/)**

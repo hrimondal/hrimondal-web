@@ -28,12 +28,12 @@ const footerLinks = [
 ];
 
 const socialLinks = {
-  facebook: "#",
-  instagram: "#",
-  x: "#",
+  facebook: "https://www.facebook.com/thathrimondal",
+  instagram: "https://www.instagram.com/hrimondal/",
+  x: "https://x.com/thehmondal",
   github: "https://github.com/hrimondal",
-  google: "#",
-  slack: "#",
+  google: "https://www.google.com/",
+  slack: "https://slack.com/",
 };
 
 export default {

@@ -29,8 +29,9 @@ const footerLinks = [
 
 const socialLinks = {
   facebook: "#",
+  instagram: "#",
   x: "#",
-  github: "https://github.com/mearashadowfax/ScrewFast",
+  github: "https://github.com/hrimondal",
   google: "#",
   slack: "#",
 };
